@@ -1,4 +1,4 @@
-<p align="center"> <img width="1000" height="300" src="https://media.giphy.com/media/uU5DbqgUfHMGC5mdmu/giphy.gif"> </p>
+<p align="center"> <img width="800" height="300" src="https://media.giphy.com/media/uU5DbqgUfHMGC5mdmu/giphy.gif"> </p>
 <h1 align="center">People used call me Ajay Prakash Kalyanasundaram</h1>
 <h3 align="center">Just a tech kid who plays with computer</h3>
 
