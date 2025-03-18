@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ajay-k-sundaram&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-k-sundaram" /> </p>
 
-_I Can Speak_  **Computer Graphics, Java, Python, Revit API, CAD API**
+_I Can Speak_  **Computer Graphics, .Net, Python, Revit API, CAD API**
 
 _Reach Me @_ **ajayprakashk@protonmail.com**
 
